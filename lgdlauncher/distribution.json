@@ -606,6 +606,1062 @@
           }
         },
         {
+          "id": "mojangstudios.png",
+          "name": "mojangstudios.png",
+          "type": "File",
+          "artifact": {
+            "size": 9581,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/.puzzle_cache/mojangstudios.png",
+            "MD5": "cfef7a4dedf4749065ebe1bd4cbe67e4",
+            "path": "config/.puzzle_cache/mojangstudios.png"
+          }
+        },
+        {
+          "id": "bettergrass.json5",
+          "name": "bettergrass.json5",
+          "type": "File",
+          "artifact": {
+            "size": 918,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/bettergrass.json5",
+            "MD5": "3f569ce23d54e5e0d9ffb3b089fbfdb7",
+            "path": "config/bettergrass.json5"
+          }
+        },
+        {
+          "id": "capes.json5",
+          "name": "capes.json5",
+          "type": "File",
+          "artifact": {
+            "size": 207,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/capes.json5",
+            "MD5": "af9a9ed7329d643308ce0b21b7bce3ae",
+            "path": "config/capes.json5"
+          }
+        },
+        {
+          "id": "citresewn.json",
+          "name": "citresewn.json",
+          "type": "File",
+          "artifact": {
+            "size": 22,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/citresewn.json",
+            "MD5": "dda0ba4f22cfad7e248623fecdba5fa5",
+            "path": "config/citresewn.json"
+          }
+        },
+        {
+          "id": "continuity.json",
+          "name": "continuity.json",
+          "type": "File",
+          "artifact": {
+            "size": 92,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/continuity.json",
+            "MD5": "4ec9e180f81089dff029c5b7f2fc4b2c",
+            "path": "config/continuity.json"
+          }
+        },
+        {
+          "id": "controlify.json",
+          "name": "controlify.json",
+          "type": "File",
+          "artifact": {
+            "size": 602,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/controlify.json",
+            "MD5": "c36cd59c239189d0384d04f724ba58ba",
+            "path": "config/controlify.json"
+          }
+        },
+        {
+          "id": "cubes-without-borders.json",
+          "name": "cubes-without-borders.json",
+          "type": "File",
+          "artifact": {
+            "size": 209,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/cubes-without-borders.json",
+            "MD5": "623d978f751c09272bb2f0dfc8ff2c3f",
+            "path": "config/cubes-without-borders.json"
+          }
+        },
+        {
+          "id": "debugify.json",
+          "name": "debugify.json",
+          "type": "File",
+          "artifact": {
+            "size": 266,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/debugify.json",
+            "MD5": "8fe473c407458fe08c7c49f996a79e5a",
+            "path": "config/debugify.json"
+          }
+        },
+        {
+          "id": "dynamic_fps.json",
+          "name": "dynamic_fps.json",
+          "type": "File",
+          "artifact": {
+            "size": 230,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/dynamic_fps.json",
+            "MD5": "5d30dd25b16cb241df14a069f2d77a43",
+            "path": "config/dynamic_fps.json"
+          }
+        },
+        {
+          "id": "e4mc.toml",
+          "name": "e4mc.toml",
+          "type": "File",
+          "artifact": {
+            "size": 328,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/e4mc/e4mc.toml",
+            "MD5": "9ce16d4b03d53f9c45b384e280725edd",
+            "path": "config/e4mc/e4mc.toml"
+          }
+        },
+        {
+          "id": "entityculling.json",
+          "name": "entityculling.json",
+          "type": "File",
+          "artifact": {
+            "size": 1695,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/entityculling.json",
+            "MD5": "8917e1c51d03445e63b5537a3bd33429",
+            "path": "config/entityculling.json"
+          }
+        },
+        {
+          "id": "entity_model_features.json",
+          "name": "entity_model_features.json",
+          "type": "File",
+          "artifact": {
+            "size": 1000,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/entity_model_features.json",
+            "MD5": "e55bb849b0f86e7aee7edc8241eb346c",
+            "path": "config/entity_model_features.json"
+          }
+        },
+        {
+          "id": "entity_texture_features.json",
+          "name": "entity_texture_features.json",
+          "type": "File",
+          "artifact": {
+            "size": 1412,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/entity_texture_features.json",
+            "MD5": "2d056f4481c2b36afe70f3c19391daf3",
+            "path": "config/entity_texture_features.json"
+          }
+        },
+        {
+          "id": "etf_warnings.json",
+          "name": "etf_warnings.json",
+          "type": "File",
+          "artifact": {
+            "size": 28,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/etf_warnings.json",
+            "MD5": "b49b5603d2df29fa132f89ec91974572",
+            "path": "config/etf_warnings.json"
+          }
+        },
+        {
+          "id": "indigo-renderer.properties",
+          "name": "indigo-renderer.properties",
+          "type": "File",
+          "artifact": {
+            "size": 260,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/fabric/indigo-renderer.properties",
+            "MD5": "0ae4523e2e213f9d322bd77760d921ab",
+            "path": "config/fabric/indigo-renderer.properties"
+          }
+        },
+        {
+          "id": "fabric_loader_dependencies.json",
+          "name": "fabric_loader_dependencies.json",
+          "type": "File",
+          "artifact": {
+            "size": 182,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/fabric_loader_dependencies.json",
+            "MD5": "915d03c92f13179f28a59123f4b6efce",
+            "path": "config/fabric_loader_dependencies.json"
+          }
+        },
+        {
+          "id": "fabrishot.properties",
+          "name": "fabrishot.properties",
+          "type": "File",
+          "artifact": {
+            "size": 167,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/fabrishot.properties",
+            "MD5": "be42f1be4f113eea9d1c2f4cc5cf309c",
+            "path": "config/fabrishot.properties"
+          }
+        },
+        {
+          "id": "fastquit.toml",
+          "name": "fastquit.toml",
+          "type": "File",
+          "artifact": {
+            "size": 123,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/fastquit.toml",
+            "MD5": "8c1bd0cad1b72bf351f5032d448dca10",
+            "path": "config/fastquit.toml"
+          }
+        },
+        {
+          "id": "ferritecore.mixin.properties",
+          "name": "ferritecore.mixin.properties",
+          "type": "File",
+          "artifact": {
+            "size": 1525,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/ferritecore.mixin.properties",
+            "MD5": "bf3e6be63e300b0290cfc849beb64ede",
+            "path": "config/ferritecore.mixin.properties"
+          }
+        },
+        {
+          "id": "forgeconfigapiport.toml",
+          "name": "forgeconfigapiport.toml",
+          "type": "File",
+          "artifact": {
+            "size": 523,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/forgeconfigapiport.toml",
+            "MD5": "80b3cd8edc58e5849bf5a7a0c48bd4ef",
+            "path": "config/forgeconfigapiport.toml"
+          }
+        },
+        {
+          "id": "gammautils.json",
+          "name": "gammautils.json",
+          "type": "File",
+          "artifact": {
+            "size": 1932,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/gammautils.json",
+            "MD5": "fe550a50ab78a3b53cd239fe3f8cc39f",
+            "path": "config/gammautils.json"
+          }
+        },
+        {
+          "id": "immediatelyfast.json",
+          "name": "immediatelyfast.json",
+          "type": "File",
+          "artifact": {
+            "size": 1079,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/immediatelyfast.json",
+            "MD5": "fb56860b8216703973a2e028b922a979",
+            "path": "config/immediatelyfast.json"
+          }
+        },
+        {
+          "id": "iris-excluded.json",
+          "name": "iris-excluded.json",
+          "type": "File",
+          "artifact": {
+            "size": 31,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/iris-excluded.json",
+            "MD5": "670592b1394f12ab96d8432f14ac8dd9",
+            "path": "config/iris-excluded.json"
+          }
+        },
+        {
+          "id": "iris.properties",
+          "name": "iris.properties",
+          "type": "File",
+          "artifact": {
+            "size": 315,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/iris.properties",
+            "MD5": "faf4550a3566dd04a0f99e9a07943318",
+            "path": "config/iris.properties"
+          }
+        },
+        {
+          "id": "isxander-main-menu-credits.json",
+          "name": "isxander-main-menu-credits.json",
+          "type": "File",
+          "artifact": {
+            "size": 310,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/isxander-main-menu-credits.json",
+            "MD5": "90cb57d1ad371cfd2cd5d216e9204897",
+            "path": "config/isxander-main-menu-credits.json"
+          }
+        },
+        {
+          "id": "lambdynlights.toml",
+          "name": "lambdynlights.toml",
+          "type": "File",
+          "artifact": {
+            "size": 161,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/lambdynlights.toml",
+            "MD5": "57784a01dfdce14286682c8152f6e852",
+            "path": "config/lambdynlights.toml"
+          }
+        },
+        {
+          "id": "languagereload.json",
+          "name": "languagereload.json",
+          "type": "File",
+          "artifact": {
+            "size": 206,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/languagereload.json",
+            "MD5": "29f2a842a259c5fc4f7e745c023debae",
+            "path": "config/languagereload.json"
+          }
+        },
+        {
+          "id": "24670.litematic",
+          "name": "24670.litematic",
+          "type": "File",
+          "artifact": {
+            "size": 8651,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/litematica/area_selections_per_world/24670.litematic",
+            "MD5": "c390dea89a694a9bf1cf80b76a528042",
+            "path": "config/litematica/area_selections_per_world/24670.litematic"
+          }
+        },
+        {
+          "id": "litematica_192.168.10.210.json",
+          "name": "litematica_192.168.10.210.json",
+          "type": "File",
+          "artifact": {
+            "size": 95,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/litematica/litematica_192.168.10.210.json",
+            "MD5": "909c5fc6e45a9192364c7e32ee776ae1",
+            "path": "config/litematica/litematica_192.168.10.210.json"
+          }
+        },
+        {
+          "id": "litematica_192.168.10.210_25565.json",
+          "name": "litematica_192.168.10.210_25565.json",
+          "type": "File",
+          "artifact": {
+            "size": 240,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/litematica/litematica_192.168.10.210_25565.json",
+            "MD5": "10a3eab2a1e826113d640a4159bb9f61",
+            "path": "config/litematica/litematica_192.168.10.210_25565.json"
+          }
+        },
+        {
+          "id": "litematica_192.168.10.210_25565_dim_minecraft_overworld.json",
+          "name": "litematica_192.168.10.210_25565_dim_minecraft_overworld.json",
+          "type": "File",
+          "artifact": {
+            "size": 774,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/litematica/litematica_192.168.10.210_25565_dim_minecraft_overworld.json",
+            "MD5": "54619ee03e44a9e059ec416ba2a425fc",
+            "path": "config/litematica/litematica_192.168.10.210_25565_dim_minecraft_overworld.json"
+          }
+        },
+        {
+          "id": "litematica_192.168.10.210_dim_minecraft_overworld.json",
+          "name": "litematica_192.168.10.210_dim_minecraft_overworld.json",
+          "type": "File",
+          "artifact": {
+            "size": 758,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/litematica/litematica_192.168.10.210_dim_minecraft_overworld.json",
+            "MD5": "79d27ab8e9848160cc1684637aaabe35",
+            "path": "config/litematica/litematica_192.168.10.210_dim_minecraft_overworld.json"
+          }
+        },
+        {
+          "id": "litematica_192.168.10.210_dim_minecraft_the_nether.json",
+          "name": "litematica_192.168.10.210_dim_minecraft_the_nether.json",
+          "type": "File",
+          "artifact": {
+            "size": 758,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/litematica/litematica_192.168.10.210_dim_minecraft_the_nether.json",
+            "MD5": "79d27ab8e9848160cc1684637aaabe35",
+            "path": "config/litematica/litematica_192.168.10.210_dim_minecraft_the_nether.json"
+          }
+        },
+        {
+          "id": "litematica_dev.sejinjin.kr.json",
+          "name": "litematica_dev.sejinjin.kr.json",
+          "type": "File",
+          "artifact": {
+            "size": 95,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/litematica/litematica_dev.sejinjin.kr.json",
+            "MD5": "909c5fc6e45a9192364c7e32ee776ae1",
+            "path": "config/litematica/litematica_dev.sejinjin.kr.json"
+          }
+        },
+        {
+          "id": "litematica_dev.sejinjin.kr_dim_minecraft_job_select.json",
+          "name": "litematica_dev.sejinjin.kr_dim_minecraft_job_select.json",
+          "type": "File",
+          "artifact": {
+            "size": 758,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/litematica/litematica_dev.sejinjin.kr_dim_minecraft_job_select.json",
+            "MD5": "79d27ab8e9848160cc1684637aaabe35",
+            "path": "config/litematica/litematica_dev.sejinjin.kr_dim_minecraft_job_select.json"
+          }
+        },
+        {
+          "id": "litematica_dev.sejinjin.kr_dim_minecraft_overworld.json",
+          "name": "litematica_dev.sejinjin.kr_dim_minecraft_overworld.json",
+          "type": "File",
+          "artifact": {
+            "size": 758,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/litematica/litematica_dev.sejinjin.kr_dim_minecraft_overworld.json",
+            "MD5": "79d27ab8e9848160cc1684637aaabe35",
+            "path": "config/litematica/litematica_dev.sejinjin.kr_dim_minecraft_overworld.json"
+          }
+        },
+        {
+          "id": "litematica_dev.sejinjin.kr_dim_minecraft_spawn.json",
+          "name": "litematica_dev.sejinjin.kr_dim_minecraft_spawn.json",
+          "type": "File",
+          "artifact": {
+            "size": 758,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/litematica/litematica_dev.sejinjin.kr_dim_minecraft_spawn.json",
+            "MD5": "79d27ab8e9848160cc1684637aaabe35",
+            "path": "config/litematica/litematica_dev.sejinjin.kr_dim_minecraft_spawn.json"
+          }
+        },
+        {
+          "id": "litematica_localhost_27757.json",
+          "name": "litematica_localhost_27757.json",
+          "type": "File",
+          "artifact": {
+            "size": 95,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/litematica/litematica_localhost_27757.json",
+            "MD5": "909c5fc6e45a9192364c7e32ee776ae1",
+            "path": "config/litematica/litematica_localhost_27757.json"
+          }
+        },
+        {
+          "id": "litematica_localhost_27757_dim_minecraft_job_select.json",
+          "name": "litematica_localhost_27757_dim_minecraft_job_select.json",
+          "type": "File",
+          "artifact": {
+            "size": 758,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/litematica/litematica_localhost_27757_dim_minecraft_job_select.json",
+            "MD5": "79d27ab8e9848160cc1684637aaabe35",
+            "path": "config/litematica/litematica_localhost_27757_dim_minecraft_job_select.json"
+          }
+        },
+        {
+          "id": "litematica_localhost_27757_dim_minecraft_overworld.json",
+          "name": "litematica_localhost_27757_dim_minecraft_overworld.json",
+          "type": "File",
+          "artifact": {
+            "size": 758,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/litematica/litematica_localhost_27757_dim_minecraft_overworld.json",
+            "MD5": "79d27ab8e9848160cc1684637aaabe35",
+            "path": "config/litematica/litematica_localhost_27757_dim_minecraft_overworld.json"
+          }
+        },
+        {
+          "id": "litematica_localhost_27757_dim_minecraft_spawn.json",
+          "name": "litematica_localhost_27757_dim_minecraft_spawn.json",
+          "type": "File",
+          "artifact": {
+            "size": 758,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/litematica/litematica_localhost_27757_dim_minecraft_spawn.json",
+            "MD5": "79d27ab8e9848160cc1684637aaabe35",
+            "path": "config/litematica/litematica_localhost_27757_dim_minecraft_spawn.json"
+          }
+        },
+        {
+          "id": "litematica_localhost_27757_dim_minecraft_the_nether.json",
+          "name": "litematica_localhost_27757_dim_minecraft_the_nether.json",
+          "type": "File",
+          "artifact": {
+            "size": 758,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/litematica/litematica_localhost_27757_dim_minecraft_the_nether.json",
+            "MD5": "79d27ab8e9848160cc1684637aaabe35",
+            "path": "config/litematica/litematica_localhost_27757_dim_minecraft_the_nether.json"
+          }
+        },
+        {
+          "id": "litematica_mc.sejinjin.kr.json",
+          "name": "litematica_mc.sejinjin.kr.json",
+          "type": "File",
+          "artifact": {
+            "size": 240,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/litematica/litematica_mc.sejinjin.kr.json",
+            "MD5": "10a3eab2a1e826113d640a4159bb9f61",
+            "path": "config/litematica/litematica_mc.sejinjin.kr.json"
+          }
+        },
+        {
+          "id": "litematica_mc.sejinjin.kr_dim_minecraft_overworld.json",
+          "name": "litematica_mc.sejinjin.kr_dim_minecraft_overworld.json",
+          "type": "File",
+          "artifact": {
+            "size": 3358,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/litematica/litematica_mc.sejinjin.kr_dim_minecraft_overworld.json",
+            "MD5": "356a32ebb9b0df4097abb83125695716",
+            "path": "config/litematica/litematica_mc.sejinjin.kr_dim_minecraft_overworld.json"
+          }
+        },
+        {
+          "id": "litematica_mc.sejinjin.kr_dim_minecraft_the_end.json",
+          "name": "litematica_mc.sejinjin.kr_dim_minecraft_the_end.json",
+          "type": "File",
+          "artifact": {
+            "size": 774,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/litematica/litematica_mc.sejinjin.kr_dim_minecraft_the_end.json",
+            "MD5": "54619ee03e44a9e059ec416ba2a425fc",
+            "path": "config/litematica/litematica_mc.sejinjin.kr_dim_minecraft_the_end.json"
+          }
+        },
+        {
+          "id": "litematica_mc.sejinjin.kr_dim_minecraft_the_nether.json",
+          "name": "litematica_mc.sejinjin.kr_dim_minecraft_the_nether.json",
+          "type": "File",
+          "artifact": {
+            "size": 1872,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/litematica/litematica_mc.sejinjin.kr_dim_minecraft_the_nether.json",
+            "MD5": "592ced250f7e0d6223ecaf42bc6a158d",
+            "path": "config/litematica/litematica_mc.sejinjin.kr_dim_minecraft_the_nether.json"
+          }
+        },
+        {
+          "id": "litematica_마검 탈출맵 테스트용 서버3.json",
+          "name": "litematica_마검 탈출맵 테스트용 서버3.json",
+          "type": "File",
+          "artifact": {
+            "size": 95,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/litematica/litematica_%EB%A7%88%EA%B2%80%20%ED%83%88%EC%B6%9C%EB%A7%B5%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9A%A9%20%EC%84%9C%EB%B2%843.json",
+            "MD5": "909c5fc6e45a9192364c7e32ee776ae1",
+            "path": "config/litematica/litematica_마검 탈출맵 테스트용 서버3.json"
+          }
+        },
+        {
+          "id": "litematica_마검 탈출맵 테스트용 서버3_dim_minecraft_overworld.json",
+          "name": "litematica_마검 탈출맵 테스트용 서버3_dim_minecraft_overworld.json",
+          "type": "File",
+          "artifact": {
+            "size": 758,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/litematica/litematica_%EB%A7%88%EA%B2%80%20%ED%83%88%EC%B6%9C%EB%A7%B5%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9A%A9%20%EC%84%9C%EB%B2%843_dim_minecraft_overworld.json",
+            "MD5": "79d27ab8e9848160cc1684637aaabe35",
+            "path": "config/litematica/litematica_마검 탈출맵 테스트용 서버3_dim_minecraft_overworld.json"
+          }
+        },
+        {
+          "id": "litematica_마검 탈출맵 테스트용 서버3_dim_minecraft_the_end.json",
+          "name": "litematica_마검 탈출맵 테스트용 서버3_dim_minecraft_the_end.json",
+          "type": "File",
+          "artifact": {
+            "size": 758,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/litematica/litematica_%EB%A7%88%EA%B2%80%20%ED%83%88%EC%B6%9C%EB%A7%B5%20%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9A%A9%20%EC%84%9C%EB%B2%843_dim_minecraft_the_end.json",
+            "MD5": "79d27ab8e9848160cc1684637aaabe35",
+            "path": "config/litematica/litematica_마검 탈출맵 테스트용 서버3_dim_minecraft_the_end.json"
+          }
+        },
+        {
+          "id": "litematica_새로운 세계.json",
+          "name": "litematica_새로운 세계.json",
+          "type": "File",
+          "artifact": {
+            "size": 95,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/litematica/litematica_%EC%83%88%EB%A1%9C%EC%9A%B4%20%EC%84%B8%EA%B3%84.json",
+            "MD5": "909c5fc6e45a9192364c7e32ee776ae1",
+            "path": "config/litematica/litematica_새로운 세계.json"
+          }
+        },
+        {
+          "id": "litematica_새로운 세계_dim_minecraft_overworld.json",
+          "name": "litematica_새로운 세계_dim_minecraft_overworld.json",
+          "type": "File",
+          "artifact": {
+            "size": 1921,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/litematica/litematica_%EC%83%88%EB%A1%9C%EC%9A%B4%20%EC%84%B8%EA%B3%84_dim_minecraft_overworld.json",
+            "MD5": "840845f50e98832784d8d94f7e384e6f",
+            "path": "config/litematica/litematica_새로운 세계_dim_minecraft_overworld.json"
+          }
+        },
+        {
+          "id": "litematica.json",
+          "name": "litematica.json",
+          "type": "File",
+          "artifact": {
+            "size": 10434,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/litematica.json",
+            "MD5": "a1cf61e772ed1bd0e320d8d43632599e",
+            "path": "config/litematica.json"
+          }
+        },
+        {
+          "id": "lithium.properties",
+          "name": "lithium.properties",
+          "type": "File",
+          "artifact": {
+            "size": 267,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/lithium.properties",
+            "MD5": "65a61a8f2201e0a571d48a7f0295da19",
+            "path": "config/lithium.properties"
+          }
+        },
+        {
+          "id": "malilib.json",
+          "name": "malilib.json",
+          "type": "File",
+          "artifact": {
+            "size": 677,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/malilib.json",
+            "MD5": "392896dc7004ea877d186ced7aaa77bf",
+            "path": "config/malilib.json"
+          }
+        },
+        {
+          "id": "midnightlib.json",
+          "name": "midnightlib.json",
+          "type": "File",
+          "artifact": {
+            "size": 30,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/midnightlib.json",
+            "MD5": "faf5b671cdefd24677633d1bf81130b9",
+            "path": "config/midnightlib.json"
+          }
+        },
+        {
+          "id": "modelfix-client.json",
+          "name": "modelfix-client.json",
+          "type": "File",
+          "artifact": {
+            "size": 347,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/modelfix-client.json",
+            "MD5": "84deb8a18f1cff40b8c8ba39d46bda1c",
+            "path": "config/modelfix-client.json"
+          }
+        },
+        {
+          "id": "modmenu.json",
+          "name": "modmenu.json",
+          "type": "File",
+          "artifact": {
+            "size": 982,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/modmenu.json",
+            "MD5": "0f287bfa8a8a8bf44a0037d46740e3dc",
+            "path": "config/modmenu.json"
+          }
+        },
+        {
+          "id": "moreculling.toml",
+          "name": "moreculling.toml",
+          "type": "File",
+          "artifact": {
+            "size": 538,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/moreculling.toml",
+            "MD5": "72a7f11d06d1d82a57315ff5a81dc6e3",
+            "path": "config/moreculling.toml"
+          }
+        },
+        {
+          "id": "NCR-Client.json",
+          "name": "NCR-Client.json",
+          "type": "File",
+          "artifact": {
+            "size": 572,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/NoChatReports/NCR-Client.json",
+            "MD5": "c8784797401b3467ef71a1339983dff0",
+            "path": "config/NoChatReports/NCR-Client.json"
+          }
+        },
+        {
+          "id": "NCR-Common.json",
+          "name": "NCR-Common.json",
+          "type": "File",
+          "artifact": {
+            "size": 231,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/NoChatReports/NCR-Common.json",
+            "MD5": "94b4fcd8cb48239a9e1f3f5bfd4380e3",
+            "path": "config/NoChatReports/NCR-Common.json"
+          }
+        },
+        {
+          "id": "NCR-ServerPreferences.json",
+          "name": "NCR-ServerPreferences.json",
+          "type": "File",
+          "artifact": {
+            "size": 64,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/NoChatReports/NCR-ServerPreferences.json",
+            "MD5": "6af6ef5bf26f81ea43b412b70a221cc3",
+            "path": "config/NoChatReports/NCR-ServerPreferences.json"
+          }
+        },
+        {
+          "id": "README.md",
+          "name": "README.md",
+          "type": "File",
+          "artifact": {
+            "size": 167,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/NoChatReports/README.md",
+            "MD5": "964a995c80aa43cc34d780276a65b898",
+            "path": "config/NoChatReports/README.md"
+          }
+        },
+        {
+          "id": "PaginatedAdvancements.json5",
+          "name": "PaginatedAdvancements.json5",
+          "type": "File",
+          "artifact": {
+            "size": 315,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/PaginatedAdvancements.json5",
+            "MD5": "117f60da0def826d0b8ae0f3e6e37bb7",
+            "path": "config/PaginatedAdvancements.json5"
+          }
+        },
+        {
+          "id": "puzzle.json",
+          "name": "puzzle.json",
+          "type": "File",
+          "artifact": {
+            "size": 536,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/puzzle.json",
+            "MD5": "c82391e82eda58cd15d0ea82e0509af0",
+            "path": "config/puzzle.json"
+          }
+        },
+        {
+          "id": "rrls.toml",
+          "name": "rrls.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1000,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/rrls.toml",
+            "MD5": "d5fc0b0d90ed9ea83a7715097fab44e3",
+            "path": "config/rrls.toml"
+          }
+        },
+        {
+          "id": "server-entries.toml",
+          "name": "server-entries.toml",
+          "type": "File",
+          "artifact": {
+            "size": 150,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/simple-rpc/server-entries.toml",
+            "MD5": "c1d25129313571d7ffa9aa2654338ec2",
+            "path": "config/simple-rpc/server-entries.toml"
+          }
+        },
+        {
+          "id": "simple-rpc.toml",
+          "name": "simple-rpc.toml",
+          "type": "File",
+          "artifact": {
+            "size": 15611,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/simple-rpc/simple-rpc.toml",
+            "MD5": "0917ecd34537effa25bbac5cfe0fd4b3",
+            "path": "config/simple-rpc/simple-rpc.toml"
+          }
+        },
+        {
+          "id": "simplehudenhanced.toml",
+          "name": "simplehudenhanced.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2387,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/simplehudenhanced.toml",
+            "MD5": "b5e2a60e9b703dfddbc0cb55ba779076",
+            "path": "config/simplehudenhanced.toml"
+          }
+        },
+        {
+          "id": "sodium-extra-options.json",
+          "name": "sodium-extra-options.json",
+          "type": "File",
+          "artifact": {
+            "size": 1486,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/sodium-extra-options.json",
+            "MD5": "85c3cfcc34b90657ff933457225885f3",
+            "path": "config/sodium-extra-options.json"
+          }
+        },
+        {
+          "id": "sodium-extra.properties",
+          "name": "sodium-extra.properties",
+          "type": "File",
+          "artifact": {
+            "size": 360,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/sodium-extra.properties",
+            "MD5": "72b9d6dd6ada7b00ef334ee176054dbf",
+            "path": "config/sodium-extra.properties"
+          }
+        },
+        {
+          "id": "sodium-fingerprint.json",
+          "name": "sodium-fingerprint.json",
+          "type": "File",
+          "artifact": {
+            "size": 427,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/sodium-fingerprint.json",
+            "MD5": "9799042ba7e287df5295e43455166dd5",
+            "path": "config/sodium-fingerprint.json"
+          }
+        },
+        {
+          "id": "sodium-mixins.properties",
+          "name": "sodium-mixins.properties",
+          "type": "File",
+          "artifact": {
+            "size": 258,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/sodium-mixins.properties",
+            "MD5": "a5b6a84e034d60be869ae33f2dba4e2b",
+            "path": "config/sodium-mixins.properties"
+          }
+        },
+        {
+          "id": "sodium-options.json",
+          "name": "sodium-options.json",
+          "type": "File",
+          "artifact": {
+            "size": 682,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/sodium-options.json",
+            "MD5": "dab48a45fffb83648a97e1249d16391b",
+            "path": "config/sodium-options.json"
+          }
+        },
+        {
+          "id": "yacl.json5",
+          "name": "yacl.json5",
+          "type": "File",
+          "artifact": {
+            "size": 35,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/yacl.json5",
+            "MD5": "81d542abb72c4750c7218e0d975e3368",
+            "path": "config/yacl.json5"
+          }
+        },
+        {
+          "id": "capes.json5",
+          "name": "capes.json5",
+          "type": "File",
+          "artifact": {
+            "size": 207,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/yosbr/config/capes.json5",
+            "MD5": "af9a9ed7329d643308ce0b21b7bce3ae",
+            "path": "config/yosbr/config/capes.json5"
+          }
+        },
+        {
+          "id": "citresewn.json",
+          "name": "citresewn.json",
+          "type": "File",
+          "artifact": {
+            "size": 22,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/yosbr/config/citresewn.json",
+            "MD5": "dda0ba4f22cfad7e248623fecdba5fa5",
+            "path": "config/yosbr/config/citresewn.json"
+          }
+        },
+        {
+          "id": "controlify.json",
+          "name": "controlify.json",
+          "type": "File",
+          "artifact": {
+            "size": 30,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/yosbr/config/controlify.json",
+            "MD5": "05ce2f22318b678b6c69609389e963c6",
+            "path": "config/yosbr/config/controlify.json"
+          }
+        },
+        {
+          "id": "debugify.json",
+          "name": "debugify.json",
+          "type": "File",
+          "artifact": {
+            "size": 266,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/yosbr/config/debugify.json",
+            "MD5": "8fe473c407458fe08c7c49f996a79e5a",
+            "path": "config/yosbr/config/debugify.json"
+          }
+        },
+        {
+          "id": "dynamic_fps.json",
+          "name": "dynamic_fps.json",
+          "type": "File",
+          "artifact": {
+            "size": 230,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/yosbr/config/dynamic_fps.json",
+            "MD5": "5d30dd25b16cb241df14a069f2d77a43",
+            "path": "config/yosbr/config/dynamic_fps.json"
+          }
+        },
+        {
+          "id": "entity_texture_features.json",
+          "name": "entity_texture_features.json",
+          "type": "File",
+          "artifact": {
+            "size": 148,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/yosbr/config/entity_texture_features.json",
+            "MD5": "a628c3d6d1d55b0ae20128eab60ffea0",
+            "path": "config/yosbr/config/entity_texture_features.json"
+          }
+        },
+        {
+          "id": "fabrishot.properties",
+          "name": "fabrishot.properties",
+          "type": "File",
+          "artifact": {
+            "size": 167,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/yosbr/config/fabrishot.properties",
+            "MD5": "be42f1be4f113eea9d1c2f4cc5cf309c",
+            "path": "config/yosbr/config/fabrishot.properties"
+          }
+        },
+        {
+          "id": "fastquit.toml",
+          "name": "fastquit.toml",
+          "type": "File",
+          "artifact": {
+            "size": 99,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/yosbr/config/fastquit.toml",
+            "MD5": "2d8bc43d918888947c3c9a4fbccc5c47",
+            "path": "config/yosbr/config/fastquit.toml"
+          }
+        },
+        {
+          "id": "iris.properties",
+          "name": "iris.properties",
+          "type": "File",
+          "artifact": {
+            "size": 73,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/yosbr/config/iris.properties",
+            "MD5": "e9f646bca48bee15f27cb25cda3915d9",
+            "path": "config/yosbr/config/iris.properties"
+          }
+        },
+        {
+          "id": "isxander-main-menu-credits.json",
+          "name": "isxander-main-menu-credits.json",
+          "type": "File",
+          "artifact": {
+            "size": 187,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/yosbr/config/isxander-main-menu-credits.json",
+            "MD5": "31f76eaf9d90e6235b7a88f3418a550a",
+            "path": "config/yosbr/config/isxander-main-menu-credits.json"
+          }
+        },
+        {
+          "id": "lambdynlights.toml",
+          "name": "lambdynlights.toml",
+          "type": "File",
+          "artifact": {
+            "size": 161,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/yosbr/config/lambdynlights.toml",
+            "MD5": "57784a01dfdce14286682c8152f6e852",
+            "path": "config/yosbr/config/lambdynlights.toml"
+          }
+        },
+        {
+          "id": "midnightlib.json",
+          "name": "midnightlib.json",
+          "type": "File",
+          "artifact": {
+            "size": 30,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/yosbr/config/midnightlib.json",
+            "MD5": "faf5b671cdefd24677633d1bf81130b9",
+            "path": "config/yosbr/config/midnightlib.json"
+          }
+        },
+        {
+          "id": "modmenu.json",
+          "name": "modmenu.json",
+          "type": "File",
+          "artifact": {
+            "size": 982,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/yosbr/config/modmenu.json",
+            "MD5": "0f287bfa8a8a8bf44a0037d46740e3dc",
+            "path": "config/yosbr/config/modmenu.json"
+          }
+        },
+        {
+          "id": "moreculling.toml",
+          "name": "moreculling.toml",
+          "type": "File",
+          "artifact": {
+            "size": 553,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/yosbr/config/moreculling.toml",
+            "MD5": "48b79a9e43db43ae2b104e4f3f6b9628",
+            "path": "config/yosbr/config/moreculling.toml"
+          }
+        },
+        {
+          "id": "NCR-Client.json",
+          "name": "NCR-Client.json",
+          "type": "File",
+          "artifact": {
+            "size": 477,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/yosbr/config/NoChatReports/NCR-Client.json",
+            "MD5": "dc1ee41c88354527a8eb52b8cce2d97f",
+            "path": "config/yosbr/config/NoChatReports/NCR-Client.json"
+          }
+        },
+        {
+          "id": "NCR-Common.json",
+          "name": "NCR-Common.json",
+          "type": "File",
+          "artifact": {
+            "size": 96,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/yosbr/config/NoChatReports/NCR-Common.json",
+            "MD5": "636e111bd55a154df9a867280b897615",
+            "path": "config/yosbr/config/NoChatReports/NCR-Common.json"
+          }
+        },
+        {
+          "id": "PaginatedAdvancements.json5",
+          "name": "PaginatedAdvancements.json5",
+          "type": "File",
+          "artifact": {
+            "size": 284,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/yosbr/config/PaginatedAdvancements.json5",
+            "MD5": "f564d6f25f4508c096c5a4cf5901c817",
+            "path": "config/yosbr/config/PaginatedAdvancements.json5"
+          }
+        },
+        {
+          "id": "puzzle.json",
+          "name": "puzzle.json",
+          "type": "File",
+          "artifact": {
+            "size": 217,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/yosbr/config/puzzle.json",
+            "MD5": "eafd77b0541cab626a49de779c2c3414",
+            "path": "config/yosbr/config/puzzle.json"
+          }
+        },
+        {
+          "id": "rrls.toml",
+          "name": "rrls.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1000,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/yosbr/config/rrls.toml",
+            "MD5": "d5fc0b0d90ed9ea83a7715097fab44e3",
+            "path": "config/yosbr/config/rrls.toml"
+          }
+        },
+        {
+          "id": "sodium-options.json",
+          "name": "sodium-options.json",
+          "type": "File",
+          "artifact": {
+            "size": 38,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/yosbr/config/sodium-options.json",
+            "MD5": "e4198d8d02b7b781868c2b2a5c363669",
+            "path": "config/yosbr/config/sodium-options.json"
+          }
+        },
+        {
+          "id": "options.txt",
+          "name": "options.txt",
+          "type": "File",
+          "artifact": {
+            "size": 925,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/yosbr/options.txt",
+            "MD5": "8fd8f70a4831c094e820217bbeb6e833",
+            "path": "config/yosbr/options.txt"
+          }
+        },
+        {
+          "id": "zoomify.json",
+          "name": "zoomify.json",
+          "type": "File",
+          "artifact": {
+            "size": 713,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/zoomify.json",
+            "MD5": "9724d512b38a85f4e133cf9e5dba357f",
+            "path": "config/zoomify.json"
+          }
+        },
+        {
           "id": "BetterHangulFont.zip",
           "name": "BetterHangulFont.zip",
           "type": "File",
