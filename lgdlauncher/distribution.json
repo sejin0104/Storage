@@ -326,16 +326,6 @@
           }
         },
         {
-          "id": "generated.fabricmod:immediatelyfast:1.9.3+1.21.5@jar",
-          "name": "ImmediatelyFast",
-          "type": "FabricMod",
-          "artifact": {
-            "size": 226250,
-            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/ImmediatelyFast-Fabric-1.9.3+1.21.5.jar",
-            "MD5": "98245f5b5aef281a0f1f481a49f6e20c"
-          }
-        },
-        {
           "id": "generated.fabricmod:iris:1.8.11+mc1.21.5@jar",
           "name": "Iris",
           "type": "FabricMod",
