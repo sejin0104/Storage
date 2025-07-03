@@ -116,6 +116,16 @@
           ]
         },
         {
+          "id": "io.github.foundationgames:animatica:0.6.1+1.21.5@jar",
+          "name": "Animatica",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 70838,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/animatica-0.6.1+1.21.5.jar",
+            "MD5": "1e3bf1a8841f5ca84a88325b68e5cee8"
+          }
+        },
+        {
           "id": "me.cominixo:betterf3:14.0.0@jar",
           "name": "BetterF3",
           "type": "FabricMod",
@@ -256,23 +266,23 @@
           }
         },
         {
-          "id": "dev.tr7zw:entityculling:1.7.4@jar",
+          "id": "dev.tr7zw:entityculling:1.8.0@jar",
           "name": "EntityCulling",
           "type": "FabricMod",
           "artifact": {
-            "size": 71172,
-            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/entityculling-fabric-1.7.4-mc1.21.5.jar",
-            "MD5": "dfd6ef899d0b71792cacd7bb990a534b"
+            "size": 464212,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/entityculling-fabric-1.8.0-mc1.21.5.jar",
+            "MD5": "2928defb3d8bc8a199283f73e7d4864e"
           }
         },
         {
-          "id": "generated.fabricmod:fabric-api:0.122.0+1.21.5@jar",
+          "id": "generated.fabricmod:fabric-api:0.128.1+1.21.5@jar",
           "name": "Fabric API",
           "type": "FabricMod",
           "artifact": {
-            "size": 2211392,
-            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/fabric-api-0.122.0+1.21.5.jar",
-            "MD5": "9367f98b0239316c6a21784e0af11238"
+            "size": 2248242,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/fabric-api-0.128.1+1.21.5.jar",
+            "MD5": "b8bd4adb253fde5056164d3e4b8d1527"
           }
         },
         {
@@ -366,13 +376,13 @@
           }
         },
         {
-          "id": "net.caffeinemc.mods:lithium:0.16.2+mc1.21.5@jar",
+          "id": "net.caffeinemc.mods:lithium:0.16.3+mc1.21.5@jar",
           "name": "Lithium",
           "type": "FabricMod",
           "artifact": {
-            "size": 783290,
-            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/lithium-fabric-0.16.2+mc1.21.5.jar",
-            "MD5": "ecc3f4a715b06cc4e3012e9818c980c5"
+            "size": 791052,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/lithium-fabric-0.16.3+mc1.21.5.jar",
+            "MD5": "0bd35be6de7c0d3e1ba6e67c38f3a8aa"
           }
         },
         {
