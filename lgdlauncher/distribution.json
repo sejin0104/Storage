@@ -606,17 +606,6 @@
           }
         },
         {
-          "id": "mojangstudios.png",
-          "name": "mojangstudios.png",
-          "type": "File",
-          "artifact": {
-            "size": 9581,
-            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/config/.puzzle_cache/mojangstudios.png",
-            "MD5": "cfef7a4dedf4749065ebe1bd4cbe67e4",
-            "path": "config/.puzzle_cache/mojangstudios.png"
-          }
-        },
-        {
           "id": "bettergrass.json5",
           "name": "bettergrass.json5",
           "type": "File",
