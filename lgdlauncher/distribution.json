@@ -476,6 +476,16 @@
           }
         },
         {
+          "id": "su.plo.voice:plasmovoice:2.1.5@jar",
+          "name": "Plasmo Voice",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 12185824,
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/plasmovoice-fabric-1.21.5-2.1.5.jar",
+            "MD5": "95f5b1ae9af93ad96394e99c110ae396"
+          }
+        },
+        {
           "id": "net.puzzlemc:puzzle:2.1.0@jar",
           "name": "Puzzle",
           "type": "FabricMod",
