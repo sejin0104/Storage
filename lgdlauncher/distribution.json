@@ -30,7 +30,7 @@
           "artifact": {
             "size": 1416842,
             "MD5": "e041ec21fad8f4dbd2ba7e73c25900d1",
-            "url": "https://sejin0104.github.io/Storage/repo/lib/net/fabricmc/fabric-loader/0.16.14/fabric-loader-0.16.14.jar"
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/repo/lib/net/fabricmc/fabric-loader/0.16.14/fabric-loader-0.16.14.jar"
           },
           "subModules": [
             {
@@ -40,7 +40,7 @@
               "artifact": {
                 "size": 2849,
                 "MD5": "2747be3c99384e460ccdb7def4cc775c",
-                "url": "https://sejin0104.github.io/Storage/repo/versions/1.21.5-fabric-0.16.14/1.21.5-fabric-0.16.14.json"
+                "url": "https://sejin0104.github.io/Storage/lgdlauncher/repo/versions/1.21.5-fabric-0.16.14/1.21.5-fabric-0.16.14.json"
               }
             },
             {
@@ -50,7 +50,7 @@
               "artifact": {
                 "size": 126113,
                 "MD5": "f5adf3bfc54fb3d2cd8e3a1f275084bc",
-                "url": "https://sejin0104.github.io/Storage/repo/lib/org/ow2/asm/asm/9.8/asm-9.8.jar"
+                "url": "https://sejin0104.github.io/Storage/lgdlauncher/repo/lib/org/ow2/asm/asm/9.8/asm-9.8.jar"
               }
             },
             {
@@ -60,7 +60,7 @@
               "artifact": {
                 "size": 35151,
                 "MD5": "3d63508405f5610fc2ea673ff5471553",
-                "url": "https://sejin0104.github.io/Storage/repo/lib/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar"
+                "url": "https://sejin0104.github.io/Storage/lgdlauncher/repo/lib/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar"
               }
             },
             {
@@ -70,7 +70,7 @@
               "artifact": {
                 "size": 73498,
                 "MD5": "c8c3d9ccf240144e74d94ff658b024c9",
-                "url": "https://sejin0104.github.io/Storage/repo/lib/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar"
+                "url": "https://sejin0104.github.io/Storage/lgdlauncher/repo/lib/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar"
               }
             },
             {
@@ -80,7 +80,7 @@
               "artifact": {
                 "size": 51934,
                 "MD5": "4ab1aaec43c77a2d9b56e6d6d496f705",
-                "url": "https://sejin0104.github.io/Storage/repo/lib/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar"
+                "url": "https://sejin0104.github.io/Storage/lgdlauncher/repo/lib/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar"
               }
             },
             {
@@ -90,7 +90,7 @@
               "artifact": {
                 "size": 94559,
                 "MD5": "62498ef324bdab15f407d703f7d78d19",
-                "url": "https://sejin0104.github.io/Storage/repo/lib/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar"
+                "url": "https://sejin0104.github.io/Storage/lgdlauncher/repo/lib/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar"
               }
             },
             {
@@ -100,7 +100,7 @@
               "artifact": {
                 "size": 1499194,
                 "MD5": "f810932fdff9aa436d7d4f4ac69ce8c2",
-                "url": "https://sejin0104.github.io/Storage/repo/lib/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar"
+                "url": "https://sejin0104.github.io/Storage/lgdlauncher/repo/lib/net/fabricmc/sponge-mixin/0.15.5+mixin.0.8.7/sponge-mixin-0.15.5+mixin.0.8.7.jar"
               }
             },
             {
@@ -110,7 +110,7 @@
               "artifact": {
                 "size": 724686,
                 "MD5": "115c92c48d79d3996f7b3faab1c6aeb1",
-                "url": "https://sejin0104.github.io/Storage/repo/lib/net/fabricmc/intermediary/1.21.5/intermediary-1.21.5.jar"
+                "url": "https://sejin0104.github.io/Storage/lgdlauncher/repo/lib/net/fabricmc/intermediary/1.21.5/intermediary-1.21.5.jar"
               }
             }
           ]
@@ -121,7 +121,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1825102,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/BetterF3-14.0.0-Fabric-1.21.5.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/BetterF3-14.0.0-Fabric-1.21.5.jar",
             "MD5": "8077c927ba203aa197f5e13f79e0cc4b"
           }
         },
@@ -131,7 +131,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 152102,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/BetterGrassify-1.6.0+fabric.1.21.5.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/BetterGrassify-1.6.0+fabric.1.21.5.jar",
             "MD5": "bc3485de032cda82412328abdda41f78"
           }
         },
@@ -141,7 +141,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 21037,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/bettermounthud-1.2.5.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/bettermounthud-1.2.5.jar",
             "MD5": "b10108d8ecea629851725f19798c59ae"
           }
         },
@@ -151,7 +151,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 442194,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/betterstats-3.13.9+fabric-1.21.5.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/betterstats-3.13.9+fabric-1.21.5.jar",
             "MD5": "93f9bb9261c4bb91d6185f96c3a864c3"
           }
         },
@@ -161,7 +161,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1152219,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/cloth-config-18.0.145-fabric.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/cloth-config-18.0.145-fabric.jar",
             "MD5": "0c076206786120a179fde7295eea7060"
           }
         },
@@ -171,7 +171,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 996045,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/continuity-3.0.1-test.4+1.21.5.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/continuity-3.0.1-test.4+1.21.5.jar",
             "MD5": "0136ee8419f9d41fe1fc39a117cc3743"
           }
         },
@@ -181,7 +181,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 4197474,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/controlify-2.1.1+1.21.5-fabric.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/controlify-2.1.1+1.21.5-fabric.jar",
             "MD5": "31fe98bf3cd8cbbbe74521581ad981dd"
           }
         },
@@ -191,7 +191,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2011449,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/CraterLib-Fabric-1.21.5-2.1.4.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/CraterLib-Fabric-1.21.5-2.1.4.jar",
             "MD5": "e957d5db2a57512bd8aca57dc0642a28"
           }
         },
@@ -201,7 +201,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 81623,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/cwb-fabric-3.0.0+mc1.21.5.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/cwb-fabric-3.0.0+mc1.21.5.jar",
             "MD5": "d29e2d0d27179c62638f2b79e857ba14"
           }
         },
@@ -211,7 +211,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 299058,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/Debugify-1.21.5+1.0.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/Debugify-1.21.5+1.0.jar",
             "MD5": "9517cbef3ff8a7d84cbfd88757341649"
           }
         },
@@ -221,7 +221,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 190207,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/dynamic-fps-3.9.3+minecraft-1.21.5-fabric.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/dynamic-fps-3.9.3+minecraft-1.21.5-fabric.jar",
             "MD5": "6cd3555acbc9e60e9fb6e1b73e5fb21e"
           }
         },
@@ -231,7 +231,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 575182,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/e4mc_minecraft-fabric-5.3.1.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/e4mc_minecraft-fabric-5.3.1.jar",
             "MD5": "dae00ffff6f6a3b339d6ae54aed3dbeb"
           }
         },
@@ -241,7 +241,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 448610,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/entity_model_features_fabric_1.21.5-2.4.3.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/entity_model_features_fabric_1.21.5-2.4.3.jar",
             "MD5": "1c988568219c19d0b92d1af91b9f9b2c"
           }
         },
@@ -251,7 +251,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 651215,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/entity_texture_features_fabric_1.21.5-6.2.13.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/entity_texture_features_fabric_1.21.5-6.2.13.jar",
             "MD5": "3b17d74bd968626f5563b12dbb2cefef"
           }
         },
@@ -261,7 +261,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 71172,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/entityculling-fabric-1.7.4-mc1.21.5.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/entityculling-fabric-1.7.4-mc1.21.5.jar",
             "MD5": "dfd6ef899d0b71792cacd7bb990a534b"
           }
         },
@@ -271,7 +271,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2211392,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/fabric-api-0.122.0+1.21.5.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/fabric-api-0.122.0+1.21.5.jar",
             "MD5": "9367f98b0239316c6a21784e0af11238"
           }
         },
@@ -281,7 +281,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 7159151,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/fabric-language-kotlin-1.13.2+kotlin.2.1.20.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/fabric-language-kotlin-1.13.2+kotlin.2.1.20.jar",
             "MD5": "a5c2953271eede6b0dded7a2bc3f09fe"
           }
         },
@@ -291,7 +291,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 59241,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/fastquit-3.0.0+1.21.4.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/fastquit-3.0.0+1.21.4.jar",
             "MD5": "62c945b46c98733edbd2488a4d967be2"
           }
         },
@@ -301,7 +301,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 79653,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/ferritecore-8.0.0-fabric.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/ferritecore-8.0.0-fabric.jar",
             "MD5": "f3edb2e06fd77f283a0f0f734e37bf13"
           }
         },
@@ -311,7 +311,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 630029,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/ForgeConfigAPIPort-v21.5.1-1.21.5-Fabric.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/ForgeConfigAPIPort-v21.5.1-1.21.5-Fabric.jar",
             "MD5": "32ba7ecf91d608280b9521ce67ede1f6"
           }
         },
@@ -321,7 +321,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 93584,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/Gamma-Utils-2.2.3-mc1.21.5.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/Gamma-Utils-2.2.3-mc1.21.5.jar",
             "MD5": "1fccc26e990cdb96bb900aa2234c6dc0"
           }
         },
@@ -331,7 +331,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 226250,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/ImmediatelyFast-Fabric-1.9.3+1.21.5.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/ImmediatelyFast-Fabric-1.9.3+1.21.5.jar",
             "MD5": "98245f5b5aef281a0f1f481a49f6e20c"
           }
         },
@@ -341,7 +341,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2714605,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/iris-fabric-1.8.11+mc1.21.5.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/iris-fabric-1.8.11+mc1.21.5.jar",
             "MD5": "c08a1725cf3ae49482431e9f67054769"
           }
         },
@@ -351,7 +351,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1025132,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/lambdynamiclights-4.2.6+1.21.5.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/lambdynamiclights-4.2.6+1.21.5.jar",
             "MD5": "813f312834528fa9b19d0cc12e110183"
           }
         },
@@ -361,7 +361,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 73837,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/language-reload-1.7.3+1.21.5.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/language-reload-1.7.3+1.21.5.jar",
             "MD5": "1bd35b2d998fae5877d32736e913c6f8"
           }
         },
@@ -371,7 +371,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1408088,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/litematica-fabric-1.21.5-0.22.0.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/litematica-fabric-1.21.5-0.22.0.jar",
             "MD5": "4c215445182a1a9d794d7866e10e9bd0"
           }
         },
@@ -381,7 +381,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 783290,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/lithium-fabric-0.16.2+mc1.21.5.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/lithium-fabric-0.16.2+mc1.21.5.jar",
             "MD5": "ecc3f4a715b06cc4e3012e9818c980c5"
           }
         },
@@ -391,7 +391,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 16640,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/main-menu-credits-1.2.0.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/main-menu-credits-1.2.0.jar",
             "MD5": "fa6c077f11eee6b737df0c69f7bf609a"
           }
         },
@@ -401,7 +401,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1289116,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/malilib-fabric-1.21.5-0.24.0.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/malilib-fabric-1.21.5-0.24.0.jar",
             "MD5": "c944e9125403ffc10f7f5233b4c740d2"
           }
         },
@@ -411,7 +411,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 36039,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/mixintrace-1.1.1+1.17.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/mixintrace-1.1.1+1.17.jar",
             "MD5": "25673336ece740d8127ae7525bc0cd4f"
           }
         },
@@ -421,7 +421,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 66419,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/modelfix-1.21.5-1.12-fabric.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/modelfix-1.21.5-1.12-fabric.jar",
             "MD5": "378424851f639ebca1d45e87eba0223d"
           }
         },
@@ -431,7 +431,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1069680,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/modmenu-14.0.0-rc.2.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/modmenu-14.0.0-rc.2.jar",
             "MD5": "5a262391236708f6bf39dc8df44e8945"
           }
         },
@@ -441,7 +441,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 3573,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/morechathistory-1.3.1.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/morechathistory-1.3.1.jar",
             "MD5": "cd040faa8025103baf571a3ce15d4a8a"
           }
         },
@@ -451,7 +451,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 348430,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/moreculling-fabric-1.21.5-1.3.0.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/moreculling-fabric-1.21.5-1.3.0.jar",
             "MD5": "ec96626b510d14c9d1ee137387a03694"
           }
         },
@@ -461,7 +461,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 612360,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/optigui-2.3.0-beta.7+1.21.5.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/optigui-2.3.0-beta.7+1.21.5.jar",
             "MD5": "ae5c1dd24ef445dc01ce8d10c4119554"
           }
         },
@@ -471,7 +471,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 81043,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/paginatedadvancements-2.7.0+1.21.5.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/paginatedadvancements-2.7.0+1.21.5.jar",
             "MD5": "c50e2f2fdf526174c8a42c3fc7d56c2e"
           }
         },
@@ -481,7 +481,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 141834,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/puzzle-fabric-2.1.0+1.21.5.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/puzzle-fabric-2.1.0+1.21.5.jar",
             "MD5": "0d5974d3fe06e4774808c4c9cebe1e19"
           }
         },
@@ -491,7 +491,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 81067,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/reeses-sodium-options-fabric-1.8.3+mc1.21.4.jar",
             "MD5": "85f69ebd3bde2559ee53c01daa8e361e"
           }
         },
@@ -501,7 +501,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 194024,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/rrls-5.1.5+mc1.21.5-fabric.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/rrls-5.1.5+mc1.21.5-fabric.jar",
             "MD5": "6ad3f80aaeeec802a73bdb16212f0635"
           }
         },
@@ -511,7 +511,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 381361,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/shulkerboxtooltip-fabric-5.2.5+1.21.5.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/shulkerboxtooltip-fabric-5.2.5+1.21.5.jar",
             "MD5": "ada8a5b9ca53dd5f050cefa712236f4b"
           }
         },
@@ -521,7 +521,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2199599,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/simple-hud-enhanced+1.21.5-4.7.5.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/simple-hud-enhanced+1.21.5-4.7.5.jar",
             "MD5": "d2edbbfea0e974ffb178053117fb7f47"
           }
         },
@@ -531,7 +531,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 710880,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/SimpleRPC-Universal-4.0.2.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/SimpleRPC-Universal-4.0.2.jar",
             "MD5": "a6322720a13439c4cc0d0468bdbaf36c"
           }
         },
@@ -541,7 +541,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 361857,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/sodium-extra-fabric-0.6.3+mc1.21.5.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/sodium-extra-fabric-0.6.3+mc1.21.5.jar",
             "MD5": "f1abe5d7af9ccfca078312bab1e85bdd"
           }
         },
@@ -551,7 +551,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1336477,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/sodium-fabric-0.6.13+mc1.21.5.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/sodium-fabric-0.6.13+mc1.21.5.jar",
             "MD5": "d36008a72882b8ccef234e715cf1e785"
           }
         },
@@ -561,7 +561,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 914371,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/tcdcommons-3.12.7+fabric-1.21.5.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/tcdcommons-3.12.7+fabric-1.21.5.jar",
             "MD5": "c08b62b537416aa505ae3059368e1bf2"
           }
         },
@@ -571,7 +571,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1116615,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/yet_another_config_lib_v3-3.6.6+1.21.5-fabric.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/yet_another_config_lib_v3-3.6.6+1.21.5-fabric.jar",
             "MD5": "2486c487586e9e43184d7582a1b3ae32"
           }
         },
@@ -581,7 +581,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 17373,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/yosbr-0.1.2.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/yosbr-0.1.2.jar",
             "MD5": "9fcce225f25b6fd17921c87ff1c720f1"
           }
         },
@@ -591,7 +591,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 807977,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/Zoomify-2.14.2+1.21.3.jar",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/fabricmods/required/Zoomify-2.14.2+1.21.3.jar",
             "MD5": "3b501d83e685e5cc6c7a2e339145434a"
           }
         },
@@ -601,7 +601,7 @@
           "type": "File",
           "artifact": {
             "size": 80065,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/resourcepacks/BetterHangulFont.zip",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/resourcepacks/BetterHangulFont.zip",
             "MD5": "7e53a307e7c7a9f12c7ed189ad416112",
             "path": "resourcepacks/BetterHangulFont.zip"
           }
@@ -612,7 +612,7 @@
           "type": "File",
           "artifact": {
             "size": 65577,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/resourcepacks/Chat%20Reporting%20Helper.zip",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/resourcepacks/Chat%20Reporting%20Helper.zip",
             "MD5": "48651f07e45cbc26347203e46b0a55c6",
             "path": "resourcepacks/Chat Reporting Helper.zip"
           }
@@ -623,7 +623,7 @@
           "type": "File",
           "artifact": {
             "size": 242292,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/resourcepacks/EvenBetterEnchants_v2_r1.zip",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/resourcepacks/EvenBetterEnchants_v2_r1.zip",
             "MD5": "db964278e3fe424dd5ae09625abd83aa",
             "path": "resourcepacks/EvenBetterEnchants_v2_r1.zip"
           }
@@ -634,7 +634,7 @@
           "type": "File",
           "artifact": {
             "size": 10916,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/resourcepacks/Fast%20Better%20Grass.zip",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/resourcepacks/Fast%20Better%20Grass.zip",
             "MD5": "6df6f3e34d0de11dbc3d1beea9735505",
             "path": "resourcepacks/Fast Better Grass.zip"
           }
@@ -645,7 +645,7 @@
           "type": "File",
           "artifact": {
             "size": 247176,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/resourcepacks/Fullbright-UB-1.21.zip",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/resourcepacks/Fullbright-UB-1.21.zip",
             "MD5": "85780785eafc6de1a30f4cd398cebee2",
             "path": "resourcepacks/Fullbright-UB-1.21.zip"
           }
@@ -656,7 +656,7 @@
           "type": "File",
           "artifact": {
             "size": 41560,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/resourcepacks/LowOnFire%201.21.5.zip",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/resourcepacks/LowOnFire%201.21.5.zip",
             "MD5": "002eb376c3c340fcd3e90ef566c0141c",
             "path": "resourcepacks/LowOnFire 1.21.5.zip"
           }
@@ -667,7 +667,7 @@
           "type": "File",
           "artifact": {
             "size": 64423,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/resourcepacks/Mod%20Menu%20Helper.zip",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/resourcepacks/Mod%20Menu%20Helper.zip",
             "MD5": "ce54e7288005f707047a307d54c373fe",
             "path": "resourcepacks/Mod Menu Helper.zip"
           }
@@ -678,7 +678,7 @@
           "type": "File",
           "artifact": {
             "size": 344937,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/resourcepacks/NewGlowingOres-%C2%A76[Border]%C2%A7r.zip",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/resourcepacks/NewGlowingOres-%C2%A76[Border]%C2%A7r.zip",
             "MD5": "2980443baca6693874591bdd6c384f57",
             "path": "resourcepacks/NewGlowingOres-§6[Border]§r.zip"
           }
@@ -689,7 +689,7 @@
           "type": "File",
           "artifact": {
             "size": 223985,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/resourcepacks/SodiumTranslations.zip",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/resourcepacks/SodiumTranslations.zip",
             "MD5": "bf52afd19677cca0dd7fb8abb6a40369",
             "path": "resourcepacks/SodiumTranslations.zip"
           }
@@ -700,7 +700,7 @@
           "type": "File",
           "artifact": {
             "size": 1121557,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/shaderpacks/BSL_v10.0p1.zip",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/shaderpacks/BSL_v10.0p1.zip",
             "MD5": "4f7e27189aa43c45536d63eb3c234a83",
             "path": "shaderpacks/BSL_v10.0p1.zip"
           }
@@ -711,7 +711,7 @@
           "type": "File",
           "artifact": {
             "size": 456328,
-            "url": "https://sejin0104.github.io/Storage/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/shaderpacks/ComplementaryReimagined_r5.5.1.zip",
+            "url": "https://sejin0104.github.io/Storage/lgdlauncher/servers/%EA%B0%9C%EC%A9%8C%EB%8A%94%EC%84%9C%EB%B2%84-1.21.5/files/shaderpacks/ComplementaryReimagined_r5.5.1.zip",
             "MD5": "e49c87af1c2bb64337068f6928f06bff",
             "path": "shaderpacks/ComplementaryReimagined_r5.5.1.zip"
           }
